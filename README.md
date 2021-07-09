@@ -29,6 +29,7 @@ In simple terms, a sorting algorithm is a method used to reorganize a set of ite
 [Source](https://www.interviewbit.com/tutorial/sorting-algorithms/)
 [Merge_Sort](https://www.youtube.com/watch?v=TzeBrDU-JaY)
 [Bubble_Sort](https://www.youtube.com/watch?v=Jdtq5uKz-w4&list=RDCMUClEEsT7DkdVO_fkrBw0OTrA&index=4)
+[understanding_bubbleSort](https://www.honeybadger.io/blog/ruby-bubble-sort/)
 <br>
 ## Q2 Identify and explain the workings of TWO search algorithms and discuss and compare their performance/efficiency (i.e. Big O)
 --- 
